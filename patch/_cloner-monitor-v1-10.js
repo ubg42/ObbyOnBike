@@ -19,6 +19,7 @@
         "sportsgames.gitlab.io",
         "dressupgames.gitlab.io",
         "localhost:3000",
+        "ubg42.github.io",
     ];
     const CLONER_URL= "https://gamecloner.wp235.workers.dev/";
     const HREF= document.currentScript.src;
