@@ -284,6 +284,7 @@ window.addEventListener("load", function () {
         "https://www.emulatorjs.com",
         "https://fonts.googleapis.com/",
         "https://ipwho.is/",
+        "https://ubg42.github.io",
     ];
 
     const URLPatch= function(url, note= "", type= "") {
